@@ -40,7 +40,8 @@ function Sidebar() {
                     }
                     to={`/${link}`}
                   >
-                    {link.charAt(0).toUpperCase() + link.slice(1)}
+                    {/* {link.charAt(0).toUpperCase() + link.slice(1)} */}
+                    {link}
                   </Link>
                 </li>
               ))}
