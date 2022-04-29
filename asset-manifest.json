@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-dashboard-app/static/css/main.da2c1e87.css",
-    "main.js": "/react-dashboard-app/static/js/main.ae04d740.js",
+    "main.css": "/react-dashboard-app/static/css/main.aaa742ea.css",
+    "main.js": "/react-dashboard-app/static/js/main.850ae95b.js",
     "static/js/787.545aecf5.chunk.js": "/react-dashboard-app/static/js/787.545aecf5.chunk.js",
     "static/media/transportIcon.svg": "/react-dashboard-app/static/media/transportIcon.442d2bddf74a5a9e6b1baf3c5f50c35f.svg",
     "index.html": "/react-dashboard-app/index.html",
     "static/media/cartIcon.svg": "/react-dashboard-app/static/media/cartIcon.0471469763bfb5f1b49fcf9e0639863f.svg",
     "static/media/houseIcon.svg": "/react-dashboard-app/static/media/houseIcon.da02fe3867faabdbe9a4ee08f43687ba.svg",
-    "main.da2c1e87.css.map": "/react-dashboard-app/static/css/main.da2c1e87.css.map",
-    "main.ae04d740.js.map": "/react-dashboard-app/static/js/main.ae04d740.js.map",
+    "main.aaa742ea.css.map": "/react-dashboard-app/static/css/main.aaa742ea.css.map",
+    "main.850ae95b.js.map": "/react-dashboard-app/static/js/main.850ae95b.js.map",
     "787.545aecf5.chunk.js.map": "/react-dashboard-app/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da2c1e87.css",
-    "static/js/main.ae04d740.js"
+    "static/css/main.aaa742ea.css",
+    "static/js/main.850ae95b.js"
   ]
 }
